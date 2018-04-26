@@ -1,0 +1,39 @@
+Main Link Page:
+
+1.https://github.com/xxorde/librekinect#i-have-a-devvideo0-but-i-do-not-get-data
+
+(Note : first Downlaod the libfiles by 
+            git clone https://github.com/xxorde/librekinect#i-have-a-devvideo0-but-i-do-not-get-data
+            and Then Follow the procedue given in Readme)
+
+
+Github help page:
+
+      1.https://github.com/xxorde/librekinect/issues/45
+      2.https://github.com/xxorde/librekinect/issues/48
+      3.https://github.com/lucyking/pickinect/tree/master/src
+      4.https://github.com/xxorde/librekinect/issues/15   --- this fix the error installation in Raspberry pi3
+      5.https://github.com/OpenKinect/libfreenect/issues/338 --- to solve no data Error
+
+
+
+Stack Exchange:   
+ 
+    1.https://raspberrypi.stackexchange.com/questions/27586/how-can-i-connect-a-kinect-to-my-raspberry-pi
+    2.https://stackoverflow.com/questions/17743479/raspberry-pi-with-Kinect
+    
+    
+
+To Solve insmod error:
+    1.https://unix.stackexchange.com/questions/170503/insmod-error-could-not-insert-module-8188eu-ko-invalid-module-format
+
+
+
+To Solve gspca Error:
+
+  1.https://www.experts-exchange.com/questions/27298661/install-gspca-on-CentOS-5-5-Linux.html
+  
+  
+I Just Skipped the gspca (Used to stream Images) part if you need to solve the go ahead with the above link    
+  
+
